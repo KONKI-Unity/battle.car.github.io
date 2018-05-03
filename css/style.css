@@ -456,7 +456,7 @@ a:focus, a:hover {
 .agileinfoplatformsgrids p
 {
 	color: grey;
-	
+	text-align: justify;
 	margin-left: 30px;
 	margin-right: 30px;
 }
