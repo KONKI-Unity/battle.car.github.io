@@ -425,6 +425,7 @@ a:focus, a:hover {
 
 .agileinfoplatformsgrids
 {
+	text-align: justify;
 	background-image: url(../images/tabs-bg.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
